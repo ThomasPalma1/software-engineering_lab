@@ -1,3 +1,4 @@
 [submodule "submodule_folder"]
 	path = submodule_folder
 	url = https://github.com/ThomasPalma1/servico_persistencia
+	branch = main
